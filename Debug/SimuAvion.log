@@ -1,0 +1,45 @@
+﻿Build started 11-01-2018 03:49:34 p.m..
+     1>Project "C:\Users\Edgardo\documents\visual studio 2013\Projects\SimuAvion\SimuAvion\SimuAvion.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Users\Edgardo\Documents\Studio 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(140): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(147): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(173): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(188): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(189): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(205): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(210): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(211): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(230): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(232): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(238): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(240): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(255): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(257): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(267): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(271): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(276): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(280): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(291): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(294): warning C4805: '==' : unsafe mix of type 'boolean' and type 'bool' in operation
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(298): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(300): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(302): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(313): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(314): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(318): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(320): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(322): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(323): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(335): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(180): warning C4101: 'SimuGravedad' : unreferenced local variable
+     1>c:\users\edgardo\documents\visual studio 2013\projects\simuavion\simuavion\source.cpp(179): warning C4101: 'tiempTotal' : unreferenced local variable
+       Link:
+         C:\Users\Edgardo\Documents\Studio 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Edgardo\documents\visual studio 2013\Projects\SimuAvion\Debug\SimuAvion.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Edgardo\documents\visual studio 2013\Projects\SimuAvion\Debug\SimuAvion.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Edgardo\documents\visual studio 2013\Projects\SimuAvion\Debug\SimuAvion.lib" /MACHINE:X86 Debug\Source.obj
+         SimuAvion.vcxproj -> C:\Users\Edgardo\documents\visual studio 2013\Projects\SimuAvion\Debug\SimuAvion.exe
+     1>Done Building Project "C:\Users\Edgardo\documents\visual studio 2013\Projects\SimuAvion\SimuAvion\SimuAvion.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.79
